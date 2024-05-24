@@ -18,7 +18,7 @@
 </div>
 
 <ul>
-  <li>I’m a second-year student at the University of Toronto specializing in Computer Science & minoring in Statistics.</li>
+  <li>I’m a third-year student at the University of Toronto specializing in Computer Science & minoring in Statistics.</li>
   <li>I'm currently a CMS Ambassador with the Department of Computer and Mathematical Sciences at the University of Toronto.</li>
   <li>Feel free to connect with me via Github or Linkedin!</li>
 </ul>
