@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/brandan-burgess-a37b5b264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/brandanburgess_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 
 <ul>
